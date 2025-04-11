@@ -54,15 +54,6 @@ The Fullstack Expense Tracker App designed to help monitor all financial expendi
 
 # Server Setup
 
-## Environment variables
-
-First, create the environment variables file `.env` in the server folder. The `.env` file contains the following environment variables:
-
-- DATABASE_URL = `your MongoDB URL`
-- JWT_SECRET = `any secret key - must be secured`
-- PORT = `8800` or any port number
-
-&nbsp;
 
 ## Steps to run server/backend
 
