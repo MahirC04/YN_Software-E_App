@@ -93,13 +93,4 @@ If configured correctly, you should see a message indicating that the server is 
 2. Run `npm i` or `npm install` to install the packages.
 3. Run `npm run dev` to run the app on `http://localhost:5173`.
 
-&nbsp;
 
-## JOIN DISCORD SERVER:
-
-- [https://discord.com/invite/MdAuvJBdGk](Discord)
-
-## For Support, Contact:
-
-- Email: codewavewithasante@gmail.com
-- Telegram Chat: [https://t.me/Codewave_with_asante](https://t.me/Codewave_with_asante)
